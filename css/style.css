@@ -90,7 +90,7 @@ a {
 
 .phone {
     align-self: center;
-    background-image: url(img/43cc71bb1b43.png);
+    background-image: url(/img/43cc71bb1b43.png);
     background-position: 0 0;
     background-size: 454px 618px;
     flex-basis: 454px;
@@ -378,7 +378,7 @@ a {
 }
 
 .coreSpriteActivityHeart, .coreSpriteAddText, .coreSpriteAppIcon, .coreSpriteAppStoreButton, .coreSpriteBoomerang, .coreSpriteCall, .coreSpriteCheck, .coreSpriteChevronDark, .coreSpriteChevronDownGrey, .coreSpriteChevronRight, .coreSpriteChevronRightBlue, .coreSpriteChevronRightBlue-3x, .coreSpriteChevronRightBlue-4x, .coreSpriteCi, .coreSpriteClose, .coreSpriteCloseLight, .coreSpriteDesktopNavDirect, .coreSpriteDesktopPhotoGrid, .coreSpriteDesktopPhotoGridActive, .coreSpriteDesktopProfileIGTV, .coreSpriteDesktopProfileIGTVActive, .coreSpriteDesktopProfileSave, .coreSpriteDesktopProfileSaveActive, .coreSpriteDesktopProfileTagged, .coreSpriteDesktopProfileTaggedActive, .coreSpriteDirectHeart, .coreSpriteDismissLarge, .coreSpriteDismissSmall, .coreSpriteDownload, .coreSpriteDropdownArrowBlue5, .coreSpriteDropdownArrowBlue6, .coreSpriteDropdownArrowGrey9, .coreSpriteDropdownArrowWhite, .coreSpriteFacebookIcon, .coreSpriteFacebookIconInverted, .coreSpriteFeedLikeBig, .coreSpriteGallery, .coreSpriteGlyphGradient, .coreSpriteGlyphWhite, .coreSpriteGooglePlayButton, .coreSpriteHashtag, .coreSpriteHeartSmall, .coreSpriteHyperlapse, .coreSpriteIgLiteHalfsheetInstagramLogo, .coreSpriteInfo, .coreSpriteInputAccepted, .coreSpriteInputError, .coreSpriteInputRefresh, .coreSpriteKeyhole, .coreSpriteLeftChevron, .coreSpriteLeftPaginationArrow, .coreSpriteLocation, .coreSpriteLocationActive, .coreSpriteLock, .coreSpriteLockSmall, .coreSpriteLoggedOutGenericUpsell, .coreSpriteLoggedOutWordmark, .coreSpriteMobileNavDirect, .coreSpriteMobileNavTypeLogo, .coreSpriteNavBack, .coreSpriteNotificationLeftChevron, .coreSpriteNotificationRightChevron, .coreSpriteOptionsEllipsis, .coreSpriteOptionsEllipsisLight, .coreSpritePagingChevron, .coreSpritePlayIconSmall, .coreSpritePrivateLock, .coreSpriteProfileCamera, .coreSpriteReload, .coreSpriteRightChevron, .coreSpriteRightPaginationArrow, .coreSpriteSaveNull, .coreSpriteSaveStory, .coreSpriteSearchClear, .coreSpriteSearchIcon, .coreSpriteSensitivityIcon, .coreSpriteSensitivityIconSmall, .coreSpriteSpeechBubbleSmall, .coreSpriteSpinsta, .coreSpriteSpinstaNux, .coreSpriteSpinstaStory, .coreSpriteStar, .coreSpriteStoryCreation, .coreSpriteStoryCreationAlt, .coreSpriteStoryRing, .coreSpriteStoryViewCount, .coreSpriteTaggedNull, .coreSpriteUnreadComments, .coreSpriteUnreadLikes, .coreSpriteUnreadRelationships, .coreSpriteUnreadUsertags, .coreSpriteVerifiedBadge, .coreSpriteVerifiedBadgeSmall, .coreSpriteVideoNux, .coreSpriteViewCount, .coreSpriteWindowsStoreButton {
-    background-image: url(img/32f0a4f27407.png);
+    background-image: url(/img/32f0a4f27407.png);
 }
 
 .coreSpriteFacebookIcon {
